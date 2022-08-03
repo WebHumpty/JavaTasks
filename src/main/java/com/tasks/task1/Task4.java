@@ -1,4 +1,4 @@
-package com.tasks;
+package com.tasks.task1;
 
 /**
  * Задача 3: Программа выдает случайное число от 1 до 10.

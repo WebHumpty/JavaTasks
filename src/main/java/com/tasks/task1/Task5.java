@@ -1,4 +1,4 @@
-package com.tasks;
+package com.tasks.task1;
 
 /**
  * Задача 4: Программа выдает случайную дату января.

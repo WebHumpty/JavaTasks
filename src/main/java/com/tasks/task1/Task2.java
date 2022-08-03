@@ -1,4 +1,4 @@
-package com.tasks;
+package com.tasks.task1;
 
 /**
  * Задача 1: Программа выдает случайное число от 0 до 9

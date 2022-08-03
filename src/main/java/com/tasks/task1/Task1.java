@@ -1,4 +1,4 @@
-package com.tasks;
+package com.tasks.task1;
 
 /**
  * Пример 1: Выводим на экран различными способами надпись
